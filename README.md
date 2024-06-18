@@ -1,4 +1,5 @@
 # PNG Press
+![image](https://www.chrispycrunch.com/wp-content/uploads/2024/06/pngpress_inuse.gif)
 
 ## Overview
 PNG Press is a simple and efficient desktop application designed to convert images to PNG format. It offers a user-friendly drag-and-drop interface, making it easy for users to quickly convert one or multiple images into PNG format.
